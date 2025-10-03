@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá, eu sou o Breno Silva! Tenho 22 anos e atualmente atuo como Product Owner na @SEFAZ RR. Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFAEL e dedico meus estudos ao Desenvolvimento Back-end com foco na stack Java. Aqui no meu GitHub você vai encontrar projetos em Java e Spring, estudos sobre Programação Orientada a Objetos, APIs REST e Banco de Dados, além de experimentos práticos que refletem meu aprendizado contínuo.
+Olá, eu sou o Breno Silva! Tenho 22 anos e atualmente atuo como Product Owner. Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFAEL e dedico meus estudos ao Desenvolvimento Back-end com foco na stack Java. Aqui no meu GitHub você vai encontrar projetos em Java e Spring, estudos sobre Programação Orientada a Objetos, APIs REST e Banco de Dados, além de experimentos práticos que refletem meu aprendizado contínuo.
 
 ---
 
