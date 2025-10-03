@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Breno Silva!
 
-<!--
-**brenoSilva292/brenoSilva292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Sobre mim**  
+- 🧑‍💻 Tenho 22 anos  
+- 📍 Atualmente atuo como **Product Owner** na [@SEFAZ RR](https://www.sefaz.rr.gov.br/)  
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UNIFAEL**  
+- 🚀 Estudando **Desenvolvimento Back-end** com foco na **stack Java**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **O que você vai encontrar por aqui**  
+- Projetos em **Java** e **Spring**  
+- Estudos de **POO**, **APIs REST**, **Banco de Dados**  
+- Aprendizados e experimentos práticos no mundo do desenvolvimento  
+
+---
+
+📫 **Conecte-se comigo**  
+- [LinkedIn](www.linkedin.com/in/breno-levy) *(adicione o link do seu perfil aqui)*  
+- ✉️ Email: *adicione seu e-mail aqui*  
+
+---
+
+✨ *Sempre aprendendo, sempre construindo!*  
